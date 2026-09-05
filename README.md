@@ -1,3 +1,5 @@
+> **Archived 2026-09-04 (RFC 0038 §9 / ADR-020).** This repository is read-only. The cartridge now lives in [`https://github.com/madfam-org/solid-hyperobjects/tree/main/rugged-box`](https://github.com/madfam-org/solid-hyperobjects/tree/main/rugged-box) — same files, full history absorbed. Open issues and pull requests there.
+
 # Rugged Box V1
 
 Fully parametric, hinged rugged case with snap-fit latches, optional gasket seals, internal dividers, and stackable feet. Pure OpenSCAD — zero external dependencies.
